@@ -22,10 +22,10 @@ Businesses often spend lakhs on advertisements but struggle to quantify ROI. Thi
 
 ##  Technologies Used
 
-- Python (Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib)
-- Machine Learning Models: Linear Regression, Random Forest, Gradient Boosting
-- Feature Engineering + Interaction Terms
+- `Python (Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib)`
+- `Machine Learning Models: Linear Regression, Random Forest, Gradient Boosting`
+- `Feature Engineering + Interaction Terms`
 
 ##  Dataset
 
-Ensure you place your dataset as: sales_prediction.csv
+Ensure you place your dataset as: `sales_prediction.csv`
