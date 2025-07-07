@@ -1,4 +1,4 @@
-# CodeAlpha_sales-prediction-using-python
+# sales-prediction-using-python
 
 This project showcases a complete data science workflow to **predict product sales** based on advertising spend across TV, Radio, and Newspaper. Using **machine learning models**, we explore how businesses can optimize ad budgets to boost their returns.
 
